@@ -1,0 +1,11 @@
+the above project is done by me by tacking
+reference (how to use new lib [requred])to some libraries like nltk 
+stopwords and data is runned after importing nltk lib in python
+and coming to the path i took the data set pasted it on my desktop 
+ and gave the path desktop
+
+the code was not copy from other codes 
+yeah i accept i took reference from code 
+understanded it and then
+ went on my way to code the project on jupyter note book
+and data sets were taken from kaggle.com website
